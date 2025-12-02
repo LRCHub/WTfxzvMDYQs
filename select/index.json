@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "Go-Getters",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2025-12-02T01:34:25.175766Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go-Getters",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/01_Go-Getters_Mori_Calliope.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Go-Getters (plus LUSS)",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/02_Go-Getters_(plus_LUSS)_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Go-Getters (plus Yoon)",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/03_Go-Getters_(plus_Yoon)_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Go-Getters",
+      "artist": "Mori Calliope, Yoon",
+      "has_synced": true,
+      "path": "select/04_Go-Getters_Mori_Calliope,_Yoon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Go-Getters",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/05_Go-Getters_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Go-Getters",
+      "artist": "Mori Calliope plus Yoon (STAYC)",
+      "has_synced": true,
+      "path": "select/06_Go-Getters_Mori_Calliope_plus_Yoon_(STAYC).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Go Getters",
+      "artist": "BAK Jay",
+      "has_synced": true,
+      "path": "select/07_Go_Getters_BAK_Jay.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Go-Getters",
+      "artist": "Mori Calliope, Yoon",
+      "has_synced": true,
+      "path": "select/08_Go-Getters_Mori_Calliope,_Yoon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Go‐Getters",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/09_Go‐Getters_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Go‐Getters",
+      "artist": "Mori Calliope feat. 윤",
+      "has_synced": true,
+      "path": "select/10_Go‐Getters_Mori_Calliope_feat._윤.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fenix Flexin x Mac P Dawg - Go Getters (Official Music Video)",
+      "artist": "Mac P Dawg",
+      "has_synced": false,
+      "path": "select/11_Fenix_Flexin_x_Mac_P_Dawg_-_Go_Getters_(Official_Music_Video)_Mac_P_Dawg.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wild Heart Go Getters",
+      "artist": "Scarlet Sails",
+      "has_synced": false,
+      "path": "select/12_Wild_Heart_Go_Getters_Scarlet_Sails.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Go-Getters (feat. YOON)",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/13_Go-Getters_(feat._YOON)_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Go-Getters",
+      "artist": "森カリオペ",
+      "has_synced": true,
+      "path": "select/14_Go-Getters_森カリオペ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Go-Getters (feat",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/15_Go-Getters_(feat_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Go-Getters",
+      "artist": "Calliope Mori",
+      "has_synced": true,
+      "path": "select/16_Go-Getters_Calliope_Mori.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Go-Getters (plus Yoon)",
+      "artist": "Calliope Mori",
+      "has_synced": true,
+      "path": "select/17_Go-Getters_(plus_Yoon)_Calliope_Mori.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Go-Getters",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/18_Go-Getters_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Go-Getters (feat. YOON)",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/19_Go-Getters_(feat._YOON)_Mori_Calliope.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Go-Getters",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_Go-Getters_Mori_Calliope.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Go-Getters",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_02_Go-Getters_Mori_Calliope.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Go-Getters",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_03_Go-Getters_Mori_Calliope.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Go-Getters",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_04_Go-Getters_Mori_Calliope.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Go-Getters plus YOON (STAYC)",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_05_Go-Getters_plus_YOON_(STAYC)_Mori_Calliope.txt"
+    }
+  ]
+}
